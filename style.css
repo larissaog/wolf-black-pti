@@ -31,7 +31,7 @@ nav{
      .container {
         display: grid !important; 
         grid-template-columns: repeat(2, 1fr);
-       gap: 5px !important;
+       gap: 10px !important;
     }
 
     .card{

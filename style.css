@@ -31,14 +31,15 @@ nav{
      .container {
         display: grid !important; 
         grid-template-columns: repeat(2, 1fr);
-       gap: 7px !important;
+       gap: 5px !important;
     }
 
     .card{
-    width: 230px !important;
+    width: 210px !important;
     height: 400px !important;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease-in-out;
+   
 }
 
 }

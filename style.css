@@ -64,6 +64,17 @@ nav{
 
 }
 
+@media (max-width: 768px){
+      .container {
+        display: grid !important; 
+        grid-template-columns: repeat(2, 1fr);
+       gap: 5px !important;
+       margin-left: 15px !important;
+        margin-right: 7px !important;
+    }
+
+}
+
 .container{
     display: flex;
     justify-content: center;
@@ -110,5 +121,7 @@ nav{
     color: white;
     
 }
+
+
 
 

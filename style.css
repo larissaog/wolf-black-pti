@@ -99,6 +99,7 @@ nav{
     width: 200px;
       margin-left: 50px;
     margin-top: 60px;
+    background-color: rgb(202, 202, 202);
 
    
 }
@@ -106,8 +107,7 @@ nav{
 .button-prin:hover{
     background-color: black;
     color: white;
-    transition: 0.5s;
-    transform: scale(1.1);
+    
 }
 
 

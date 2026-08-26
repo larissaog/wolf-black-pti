@@ -68,10 +68,10 @@ nav{
       .container {
         display: grid !important; 
         grid-template-columns: repeat(2, 1fr);
-       gap: 5px !important;
+       gap: 7px !important;
        margin-left: 15px !important;
         margin-right: 7px !important;
-        background-color: black;
+        
     }
 
 }

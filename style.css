@@ -161,6 +161,23 @@ nav{
     height: 300px;
 }
 
+.button-perso{
+    cursor: pointer;
+    border: 1px solid black;
+    height: 25px;
+    width: 200px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 252, 252);
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.personalização{
+    display: flex;
+    justify-content: center;
+}
+
 
 
 
